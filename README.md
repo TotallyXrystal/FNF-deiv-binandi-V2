@@ -1,0 +1,2 @@
+# FNF-deiv-binandi-V2
+OHMG IT IZ EMERILD BURGRIRG!!!111!!
