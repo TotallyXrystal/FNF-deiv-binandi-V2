@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="pizzafan.png">
-<SubTexture name="pizzafan idle0000" x="0" y="0" width="346" height="323" frameX="0" frameY="0" frameWidth="346" frameHeight="323" />
-<SubTexture name="pizzafan left0000" x="346" y="0" width="346" height="323" frameX="0" frameY="0" frameWidth="346" frameHeight="323" />
-<SubTexture name="pizzafan down0000" x="0" y="323" width="346" height="323" frameX="0" frameY="0" frameWidth="346" frameHeight="323" />
-<SubTexture name="pizzafan up0000" x="346" y="323" width="346" height="323" frameX="0" frameY="0" frameWidth="346" frameHeight="323" />
-<SubTexture name="pizzafan right0000" x="692" y="0" width="346" height="323" frameX="0" frameY="0" frameWidth="346" frameHeight="323" />
-</TextureAtlas>
