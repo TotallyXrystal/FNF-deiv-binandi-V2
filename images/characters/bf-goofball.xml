@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf-goofball.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="right0000" x="0" y="568" width="868" height="551" frameX="-11" frameY="2" frameWidth="878" frameHeight="570"/>
+	<SubTexture name="up0000" x="1736" y="0" width="663" height="672" frameX="-31" frameY="-15" frameWidth="700" frameHeight="709"/>
+	<SubTexture name="down0000" x="0" y="0" width="868" height="568" frameX="2" frameY="2" frameWidth="878" frameHeight="570"/>
+	<SubTexture name="left0000" x="868" y="0" width="868" height="551" frameX="2" frameY="2" frameWidth="878" frameHeight="570"/>
+	<SubTexture name="idle0000" x="868" y="568" width="551" height="551" frameX="-25" frameY="2" frameWidth="584" frameHeight="570"/>
+</TextureAtlas>

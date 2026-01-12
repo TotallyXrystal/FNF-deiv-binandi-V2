@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pessego.png">
+<SubTexture name="pessego idle0000" x="791" y="0" width="791" height="818" frameX="0" frameY="0" frameWidth="791" frameHeight="818" />
+<SubTexture name="pessego idle0001" x="1582" y="0" width="791" height="818" frameX="0" frameY="0" frameWidth="791" frameHeight="818" />
+<SubTexture name="pessego left0000" x="0" y="1544" width="791" height="818" frameX="0" frameY="0" frameWidth="791" frameHeight="818" />
+<SubTexture name="pessego down0000" x="1582" y="818" width="791" height="187" frameX="0" frameY="0" frameWidth="791" frameHeight="187" />
+<SubTexture name="pessego up0000" x="0" y="0" width="791" height="1544" frameX="0" frameY="0" frameWidth="791" frameHeight="1544" />
+<SubTexture name="pessego right0000" x="791" y="1544" width="791" height="818" frameX="0" frameY="0" frameWidth="791" frameHeight="818" />
+</TextureAtlas>

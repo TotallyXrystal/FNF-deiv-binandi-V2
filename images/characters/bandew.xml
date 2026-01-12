@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bandew.png">
+<SubTexture name="bandew idle0000" x="0" y="777" width="291" height="546" frameX="0" frameY="0" frameWidth="291" frameHeight="546" />
+<SubTexture name="bandew idle0001" x="291" y="777" width="485" height="546" frameX="0" frameY="0" frameWidth="485" frameHeight="546" />
+<SubTexture name="bandew left0000" x="1344" y="0" width="672" height="546" frameX="0" frameY="0" frameWidth="672" frameHeight="546" />
+<SubTexture name="bandew down0000" x="1344" y="546" width="672" height="546" frameX="0" frameY="0" frameWidth="672" frameHeight="546" />
+<SubTexture name="bandew up0000" x="0" y="0" width="672" height="777" frameX="0" frameY="0" frameWidth="672" frameHeight="777" />
+<SubTexture name="bandew right0000" x="672" y="0" width="672" height="777" frameX="0" frameY="0" frameWidth="672" frameHeight="777" />
+</TextureAtlas>

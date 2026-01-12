@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Thearchy Man.png"><SubTexture name="Thearchy Man Idle0000" x="0" y="0" width="2767" height="2857" frameX="0" frameY="0" frameWidth="2767" frameHeight="2857" />
+<SubTexture name="Thearchy Man Idle0001" x="2767" y="0" width="2767" height="2857" frameX="0" frameY="0" frameWidth="2767" frameHeight="2857" />
+<SubTexture name="Thearchy Man Idle0002" x="5534" y="0" width="2767" height="2857" frameX="0" frameY="0" frameWidth="2767" frameHeight="2857" />
+<SubTexture name="Thearchy Man Idle0003" x="0" y="2857" width="2767" height="2857" frameX="0" frameY="0" frameWidth="2767" frameHeight="2857" />
+<SubTexture name="Thearchy Man Down0000" x="2767" y="2857" width="2767" height="2857" frameX="0" frameY="0" frameWidth="2767" frameHeight="2857" />
+<SubTexture name="Thearchy Man Down0001" x="5534" y="2857" width="2767" height="2857" frameX="0" frameY="0" frameWidth="2767" frameHeight="2857" />
+<SubTexture name="Thearchy Man Left0000" x="0" y="5714" width="2767" height="2857" frameX="0" frameY="0" frameWidth="2767" frameHeight="2857" />
+<SubTexture name="Thearchy Man Left0001" x="2767" y="5714" width="2767" height="2857" frameX="0" frameY="0" frameWidth="2767" frameHeight="2857" />
+<SubTexture name="Thearchy Man Right0000" x="5534" y="5714" width="2767" height="2857" frameX="0" frameY="0" frameWidth="2767" frameHeight="2857" />
+<SubTexture name="Thearchy Man Right0001" x="0" y="8571" width="2767" height="2857" frameX="0" frameY="0" frameWidth="2767" frameHeight="2857" />
+<SubTexture name="Thearchy Man Up0000" x="2767" y="8571" width="2767" height="2857" frameX="0" frameY="0" frameWidth="2767" frameHeight="2857" />
+<SubTexture name="Thearchy Man Up0001" x="5534" y="8571" width="2767" height="2857" frameX="0" frameY="0" frameWidth="2767" frameHeight="2857" />
+</TextureAtlas>
